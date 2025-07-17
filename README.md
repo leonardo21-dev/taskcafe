@@ -49,7 +49,7 @@ This project is still in active development, so some options may not be fully im
 
 For a list of planned features, check out the [Roadmap](https://github.com/JordanKnott/taskcafe/wiki/Roadmap)!
 
-## Installation
+### Installation
 
 ### With docker & docker-compose
 
